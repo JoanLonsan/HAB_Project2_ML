@@ -1,0 +1,119 @@
+names,comunity,scores,dates,co,humidity,no2,o3,p,pm10,pm25,so2,temp,wind,Dia,Hora,periodo,calidad_aire
+Madrid,Madrid,35,2024-06-28 12:19:06,0.1,49.6,7.4,34.6,1016.4,16.0,25.0,1.6,23.8,4.7,2024-06-28,12,mediodia,Buena
+"Casa De Campo, Madrid, Spain",Madrid,41,2024-06-28 12:19:06,,46.2,4.2,40.7,1016.4,19.0,17.0,,23.6,4.7,2024-06-28,12,mediodia,Buena
+"Escuelas Aguirre, Madrid, Spain",Madrid,35,2024-06-28 12:19:06,0.1,46.2,7.4,34.6,1016.4,24.0,25.0,1.6,23.6,4.7,2024-06-28,12,mediodia,Buena
+"Cuatro Caminos, Madrid, Spain",Madrid,34,2024-06-28 12:19:06,,46.2,6.0,,1016.4,21.0,34.0,,23.6,4.7,2024-06-28,12,mediodia,Buena
+"Plaza De Castilla, Madrid, Spain",Madrid,30,2024-06-28 12:19:06,,46.2,5.1,,1016.4,20.0,30.0,,23.6,4.7,2024-06-28,12,mediodia,Buena
+"Castellana, Madrid, Spain",Madrid,25,2024-06-28 12:19:06,,46.2,7.4,,1016.4,16.0,25.0,,23.6,4.7,2024-06-28,12,mediodia,Buena
+"Sanchinarro, Madrid, Spain",Madrid,25,2024-06-28 12:19:06,,46.2,9.6,,1014.0,20.0,25.0,,23.8,3.0,2024-06-28,12,mediodia,Buena
+"Mendez Alvaro, Madrid, Spain",Madrid,21,2024-06-28 12:19:06,,49.6,3.7,,1015.0,18.0,21.0,,23.8,4.5,2024-06-28,12,mediodia,Buena
+"Plaza Elíptica, Madrid, Spain",Madrid,18,2024-06-28 12:19:06,0.1,48.5,9.6,,1015.0,18.0,5.0,,24.5,2.5,2024-06-28,12,mediodia,Buena
+"Fernandez Ladreda, Madrid, Spain",Madrid,14,2024-06-28 12:19:06,,51.0,18.8,,1015.5,14.0,13.0,,23.0,3.3,2024-06-28,12,mediodia,Buena
+"Media  Red, Madrid, Spain",Madrid,-,2024-06-28 12:19:06,,88.0,,,1025.9,,,,7.7,1.7,2024-06-28,12,mediodia,-
+"el atazar, Madrid, Spain",Madrid,59,2024-06-28 12:19:06,,50.4,1.0,30.9,1016.9,38.0,59.0,1.1,23.5,0.3,2024-06-28,12,mediodia,Moderada
+"algete, Madrid, Spain",Madrid,57,2024-06-28 12:19:06,,46.3,3.7,29.7,1013.1,,57.0,,23.4,1.7,2024-06-28,12,mediodia,Moderada
+"alcorcón, Madrid, Spain",Madrid,50,2024-06-28 12:19:06,,51.0,11.0,26.0,1015.5,,50.0,,23.0,3.3,2024-06-28,12,mediodia,Buena
+"valdemoro, Madrid, Spain",Madrid,34,2024-06-28 12:19:06,,53.0,10.1,26.9,1015.0,,34.0,,23.5,3.6,2024-06-28,12,mediodia,Buena
+"torrejon de ardoz, Madrid, Spain",Madrid,42,2024-06-28 12:19:06,,38.0,17.9,14.3,1015.0,26.0,42.0,,24.0,1.0,2024-06-28,12,mediodia,Buena
+"villa del prado, Madrid, Spain",Madrid,38,2024-06-28 12:19:06,,60.0,2.8,29.7,1010.1,20.0,38.0,1.1,21.6,1.0,2024-06-28,12,mediodia,Buena
+"collado villalba, Madrid, Spain",Madrid,61,2024-06-28 12:19:06,,54.5,21.1,9.8,1012.8,,61.0,0.6,21.9,0.5,2024-06-28,12,mediodia,Moderada
+"villarejo de salvanes, Madrid, Spain",Madrid,34,2024-06-28 12:19:06,,48.3,3.2,32.9,1018.5,,34.0,,24.0,3.3,2024-06-28,12,mediodia,Buena
+"Mercado Central, Canarias, Spain",Canarias,38,2024-06-28 12:19:06,0.1,52.8,7.4,25.6,1014.8,22.0,38.0,0.6,23.8,9.2,2024-06-28,12,mediodia,Buena
+"Nestor Alamo, Canarias, Spain",Canarias,31,2024-06-28 12:19:06,0.1,52.8,4.6,30.9,1014.8,10.0,25.0,0.6,23.8,9.2,2024-06-28,12,mediodia,Buena
+"Lezcano, Canarias, Spain",Canarias,30,2024-06-28 12:19:06,0.1,55.5,4.6,29.3,1014.3,11.0,30.0,2.1,23.2,9.2,2024-06-28,12,mediodia,Buena
+"San Nicolas, Canarias, Spain",Canarias,28,2024-06-28 12:19:06,0.1,52.8,3.2,28.1,1014.8,11.0,21.0,0.6,23.8,9.2,2024-06-28,12,mediodia,Buena
+"Jinamar fase 3, Canarias, Spain",Canarias,28,2024-06-28 12:19:06,0.1,52.8,4.6,27.7,1014.8,13.0,9.0,2.1,23.8,9.2,2024-06-28,12,mediodia,Buena
+"La Loma-Telde, Canarias, Spain",Canarias,25,2024-06-28 12:19:06,0.1,63.2,6.4,22.8,1013.9,25.0,13.0,3.1,21.5,8.7,2024-06-28,12,mediodia,Buena
+"Barcelona (Eixample), Catalunya, Spain",Catalunya,34,2024-06-28 12:19:06,0.1,77.0,19.7,8.6,1014.4,19.0,34.0,1.6,26.1,,2024-06-28,12,mediodia,Buena
+"Barcelona (Gràcia-St.Gervasi), Catalunya, Spain",Catalunya,34,2024-06-28 12:19:06,0.1,52.5,24.3,14.7,1017.2,19.0,34.0,1.1,26.6,0.7,2024-06-28,12,mediodia,Buena
+"Barcelona (Poblenou), Catalunya, Spain",Catalunya,22,2024-06-28 12:19:06,0.1,77.0,7.4,25.0,1014.4,22.0,,,26.1,,2024-06-28,12,mediodia,Buena
+"Sant Adrià de Besòs, Catalunya, Spain",Catalunya,22,2024-06-28 12:19:06,,79.0,4.6,7.8,1016.1,22.0,,,25.2,2.5,2024-06-28,12,mediodia,Buena
+"Barcelona (Palau Reial), Catalunya, Spain",Catalunya,21,2024-06-28 12:19:06,0.1,52.5,14.7,19.1,1017.2,13.0,21.0,1.6,26.6,0.7,2024-06-28,12,mediodia,Buena
+"Barcelona, Catalunya, Spain",Catalunya,21,2024-06-28 12:19:06,0.1,52.5,6.0,35.8,1017.2,11.0,21.0,1.1,26.6,0.7,2024-06-28,12,mediodia,Buena
+"l'Hospitalet de Llobregat, Catalunya, Spain",Catalunya,21,2024-06-28 12:19:06,0.1,52.5,11.9,19.1,1017.2,20.0,21.0,1.6,26.6,0.7,2024-06-28,12,mediodia,Buena
+"Barcelona (Parc Vall d'Hebrón), Catalunya, Spain",Catalunya,21,2024-06-28 12:19:06,0.1,52.5,16.5,17.5,1017.2,15.0,21.0,1.1,26.6,0.7,2024-06-28,12,mediodia,Buena
+"Montcada i Reixac (Can Sant Joan), Catalunya, Spain",Catalunya,16,2024-06-28 12:19:06,0.1,79.2,29.3,6.5,1015.6,16.0,,5.1,25.1,4.0,2024-06-28,12,mediodia,Buena
+"Alonsotegi, País Vasco, Spain",Pais_Vasco,70,2024-06-28 12:19:06,,93.0,7.8,,1018.0,32.0,70.0,,20.0,1.0,2024-06-28,12,mediodia,Moderada
+"Mº Diaz Haro, Bilbao, País Vasco",Pais_Vasco,-,2024-06-28 12:19:06,0.1,31.0,,12.0,1008.0,34.0,,2.1,32.55,3.1,2024-06-28,12,mediodia,-
+"Basauri, País Vasco, Spain",Pais_Vasco,34,2024-06-28 12:19:06,,60.0,12.8,,1017.8,13.0,34.0,1.1,19.2,2.0,2024-06-28,12,mediodia,Buena
+"Erandio, País Vasco, Spain",Pais_Vasco,34,2024-06-28 12:19:06,0.1,90.6,19.7,,1018.2,14.0,34.0,0.6,19.2,0.2,2024-06-28,12,mediodia,Buena
+"Europa, Bilbao, País Vasco, Spain",Pais_Vasco,30,2024-06-28 12:19:06,,93.0,11.5,9.8,1018.0,12.0,30.0,1.6,20.0,1.0,2024-06-28,12,mediodia,Buena
+"Mazarredo, Bilbao, País Vasco, Spain",Pais_Vasco,25,2024-06-28 12:19:06,0.1,93.0,12.4,,1018.0,12.0,25.0,0.6,20.0,1.0,2024-06-28,12,mediodia,Buena
+"Arraiz, Bilbao, País Vasco, Spain",Pais_Vasco,23,2024-06-28 12:19:06,,94.0,2.3,23.2,1018.0,2.0,,2.6,19.5,1.2,2024-06-28,12,mediodia,Buena
+"Baracaldo, Barakaldo, País Vasco, Spain",Pais_Vasco,20,2024-06-28 12:19:06,0.1,90.6,16.0,,1018.2,20.0,13.0,0.6,19.2,0.2,2024-06-28,12,mediodia,Buena
+"Sangroniz, Sondika, País Vasco, Spain",Pais_Vasco,17,2024-06-28 12:19:06,,93.0,14.2,,1018.0,16.0,17.0,,20.0,1.0,2024-06-28,12,mediodia,Buena
+"Castrejana, Barakaldo, País Vasco, Spain",Pais_Vasco,9,2024-06-28 12:19:06,,93.0,10.6,8.2,1018.0,9.0,,,20.0,1.0,2024-06-28,12,mediodia,Buena
+"Mº Diaz Haro, Bilbao, País Vasco",Pais_Vasco,-,2024-06-28 12:19:06,0.1,31.0,,12.0,1008.0,34.0,,2.1,32.55,3.1,2024-06-28,12,mediodia,-
+"Torneo, Sevilla, Spain",Andalucia,37,2024-06-28 12:19:06,4.0,70.2,10.6,13.5,1014.2,16.0,37.0,2.1,22.3,3.2,2024-06-28,12,mediodia,Buena
+"Bermejales, Sevilla, Spain",Andalucia,37,2024-06-28 12:19:06,4.0,68.5,7.4,14.5,1013.5,13.0,37.0,1.6,22.7,3.1,2024-06-28,12,mediodia,Buena
+"Principes, Sevilla, Spain",Andalucia,30,2024-06-28 12:19:06,4.0,70.2,3.7,13.6,1014.2,15.0,30.0,3.6,22.3,3.2,2024-06-28,12,mediodia,Buena
+"Aljarafe, Mairena Del Aljarafe, Spain",Andalucia,30,2024-06-28 12:19:06,4.0,70.2,3.2,15.3,1014.3,14.0,30.0,1.1,22.1,3.8,2024-06-28,12,mediodia,Buena
+"Santa Clara, Sevilla, Spain",Andalucia,22,2024-06-28 12:19:06,4.0,69.0,8.7,14.7,1013.5,9.0,22.0,2.6,22.6,3.2,2024-06-28,12,mediodia,Buena
+"Ranilla, Sevilla, Spain",Andalucia,21,2024-06-28 12:19:06,4.0,69.5,19.2,15.0,1013.5,9.0,21.0,2.6,22.5,3.2,2024-06-28,12,mediodia,Buena
+"Coia, Vigo, Galicia, Spain",Galicia,42,2024-06-28 12:19:06,1.0,59.8,8.5,12.3,1010.2,18.0,42.0,1.7,23.6,0.1,2024-06-28,12,mediodia,Buena
+"Lope de Vega, Vigo, Galicia, Spain",Galicia,42,2024-06-28 12:19:06,1.0,59.8,7.1,10.5,1010.2,10.0,42.0,1.1,23.6,0.1,2024-06-28,12,mediodia,Buena
+"Estación 1, Este, Galicia, Spain",Galicia,18,2024-06-28 12:19:06,1.1,59.8,5.5,12.5,1010.2,10.0,18.0,0.6,23.6,0.1,2024-06-28,12,mediodia,Buena
+"Torre Hércules, A Coruña, Galicia, Spain",Galicia,63,2024-06-28 12:19:06,1.0,90.2,0.5,26.6,1014.4,19.0,63.0,0.6,16.5,13.7,2024-06-28,12,mediodia,Moderada
+"Parque da Cega, Galicia, Spain",Galicia,53,2024-06-28 12:19:06,1.0,92.5,3.8,21.5,1016.6,21.0,53.0,0.7,16.9,0.5,2024-06-28,12,mediodia,Moderada
+"Riazor, A Coruña, Galicia, Spain",Galicia,35,2024-06-28 12:19:06,1.0,90.2,1.8,21.5,1014.4,23.0,35.0,0.6,16.5,13.7,2024-06-28,12,mediodia,Buena
+"A Grela (C), Galicia, Spain",Galicia,22,2024-06-28 12:19:06,1.0,90.2,5.1,21.5,1014.4,21.0,14.0,2.4,16.5,13.7,2024-06-28,12,mediodia,Buena
+"Molí del Sol, València, Valencia, Spain",Com_Valenciana,74,2024-06-28 12:19:06,,66.8,9.2,23.6,1017.0,23.0,74.0,1.6,25.4,6.0,2024-06-28,12,mediodia,Moderada
+"Quart de Poblet, Valencia, Spain",Com_Valenciana,59,2024-06-28 12:19:06,,55.5,10.6,17.1,1014.0,21.0,59.0,3.1,26.0,4.3,2024-06-28,12,mediodia,Moderada
+"Politècnic, València, Valencia, Spain",Com_Valenciana,55,2024-06-28 12:19:06,,66.8,6.4,20.4,1017.1,20.0,55.0,2.1,25.4,6.0,2024-06-28,12,mediodia,Moderada
+"Pista de Silla, València, Valencia, Spain",Com_Valenciana,50,2024-06-28 12:19:06,,66.8,10.6,21.6,,16.0,50.0,1.6,26.2,3.1,2024-06-28,12,mediodia,Buena
+"Avd. Francia, València, Valencia, Spain",Com_Valenciana,25,2024-06-28 12:19:06,,69.5,13.3,20.4,1015.7,8.0,25.0,1.6,25.0,6.5,2024-06-28,12,mediodia,Buena
+"Elda, Valencia, Spain",Com_Valenciana,34,2024-06-28 12:19:06,,83.8,2.8,18.7,1000.4,10.0,34.0,2.6,24.0,1.5,2024-06-28,12,mediodia,Buena
+"Viver, Valencia, Spain",Com_Valenciana,24,2024-06-28 12:19:06,,57.1,7.4,23.6,1015.0,20.0,21.0,1.6,26.1,4.1,2024-06-28,12,mediodia,Buena
+"Buñol, Valencia, Spain",Com_Valenciana,42,2024-06-28 12:19:06,,73.6,2.3,30.1,1017.4,25.0,42.0,1.6,24.1,5.0,2024-06-28,12,mediodia,Buena
+"Burriana, Valencia, Spain",Com_Valenciana,34,2024-06-28 12:19:06,,57.1,19.2,11.0,1015.0,12.0,34.0,10.2,26.1,4.1,2024-06-28,12,mediodia,Buena
+"L'Alcora, Valencia, Spain",Com_Valenciana,46,2024-06-28 12:19:06,,57.1,13.8,14.7,1015.0,34.0,46.0,6.1,26.1,4.1,2024-06-28,12,mediodia,Buena
+"Benigánim, Valencia, Spain",Com_Valenciana,38,2024-06-28 12:19:06,,71.0,4.6,38.2,1013.4,,,,25.1,3.3,2024-06-28,12,mediodia,Buena
+"Benicassim, Valencia, Spain",Com_Valenciana,5,2024-06-28 12:19:06,,57.1,3.2,14.3,1015.0,2.0,5.0,1.6,26.1,4.1,2024-06-28,12,mediodia,Buena
+"CEA, Sagunt, Valencia, Spain",Com_Valenciana,62,2024-06-28 12:19:06,,65.7,5.5,18.3,1011.9,62.0,53.0,2.6,25.5,6.0,2024-06-28,12,mediodia,Moderada
+"Algar de Palància, Valencia, Spain",Com_Valenciana,23,2024-06-28 12:19:06,,57.1,3.7,23.2,1015.0,10.0,17.0,1.6,26.1,4.1,2024-06-28,12,mediodia,Buena
+"Rabassa, Alacant, Valencia, Spain",Com_Valenciana,31,2024-06-28 12:19:06,,73.5,1.4,31.3,1013.0,6.0,21.0,1.6,25.5,2.0,2024-06-28,12,mediodia,Buena
+"Vinaròs Planta, Valencia, Spain",Com_Valenciana,46,2024-06-28 12:19:06,,89.6,1.9,23.0,1028.4,11.0,46.0,,3.8,0.6,2024-06-28,12,mediodia,Buena
+"Tarragona (Bonavista), Catalunya, Spain",Catalunya,17,2024-06-28 12:19:06,,37.0,9.2,13.9,1015.0,13.0,17.0,4.1,30.0,4.6,2024-06-28,12,mediodia,Buena
+"Perafort, Catalunya, Spain",Catalunya,13,2024-06-28 12:19:06,,44.0,2.8,12.0,1006.9,10.0,13.0,2.1,30.5,,2024-06-28,12,mediodia,Buena
+"Burgos IV, Spain",Castilla_Leon,25,2024-06-28 12:19:06,0.1,87.5,6.0,15.1,1018.0,9.0,25.0,2.1,16.5,6.4,2024-06-28,12,mediodia,Buena
+"Burgos I, Spain",Castilla_Leon,45,2024-06-28 12:19:06,0.1,48.5,31.6,16.3,1033.5,45.0,9.0,1.6,9.5,0.7,2024-06-28,12,mediodia,Buena
+"Medina de Pomar, Burgos, Spain",Castilla_Leon,19,2024-06-28 12:19:06,,92.2,1.0,19.1,1018.4,4.0,,1.1,18.8,0.2,2024-06-28,12,mediodia,Buena
+"Aranda de Duero II, Burgos, Spain",Castilla_Leon,24,2024-06-28 12:19:06,,87.5,3.7,24.4,1018.0,21.0,,0.6,16.5,6.4,2024-06-28,12,mediodia,Buena
+"Miranda de Ebro II, Burgos, Spain",Castilla_Leon,19,2024-06-28 12:19:06,,85.0,4.6,18.7,1018.0,1.0,,0.6,18.0,4.6,2024-06-28,12,mediodia,Buena
+"Miranda de Ebro I, Burgos, Spain",Castilla_Leon,7,2024-06-28 12:19:06,,78.5,6.0,1.7,1006.0,7.0,,1.6,12.0,1.8,2024-06-28,12,mediodia,Buena
+"Carranque, Malaga, Spain",Andalucia,25,2024-06-28 12:19:06,,59.5,8.9,16.7,1015.7,17.0,25.0,1.6,23.7,5.1,2024-06-28,12,mediodia,Buena
+"El Atabal, Malaga, Spain",Andalucia,25,2024-06-28 12:19:06,,53.4,8.9,18.4,1015.8,14.0,25.0,1.6,25.6,3.0,2024-06-28,12,mediodia,Buena
+"Campanillas, Malaga, Spain",Andalucia,23,2024-06-28 12:19:06,,50.0,4.6,20.3,1014.0,17.0,23.0,2.6,24.5,3.8,2024-06-28,12,mediodia,Buena
+"Palacio De Congresos, Granada, Spain",Andalucia,42,2024-06-28 12:19:06,,48.0,8.7,26.1,1007.8,19.0,42.0,2.6,23.7,0.2,2024-06-28,12,mediodia,Buena
+"Ciudad Deportiva, Armilla, Spain",Andalucia,42,2024-06-28 12:19:06,,48.0,6.4,21.9,1007.8,19.0,42.0,1.6,23.7,0.2,2024-06-28,12,mediodia,Buena
+"Granada-norte, Granada, Spain",Andalucia,26,2024-06-28 12:19:06,,48.0,13.3,26.1,1007.8,16.0,17.0,2.6,23.7,0.2,2024-06-28,12,mediodia,Buena
+"Segovia II, Spain",Castilla_Leon,31,2024-06-28 12:19:06,,54.5,8.3,29.7,1012.8,31.0,,0.6,21.9,0.5,2024-06-28,12,mediodia,Buena
+"Soria, Spain",Castilla_Leon,26,2024-06-28 12:19:06,,66.0,3.2,26.4,1017.0,9.0,,0.6,22.5,2.5,2024-06-28,12,mediodia,Buena
+"Avda de Soria, Zaragoza, Spain",Castilla_Leon,22,2024-06-28 12:19:06,2.2,37.6,8.0,16.7,1015.9,22.0,,0.7,27.0,0.6,2024-06-28,12,mediodia,Buena
+"Muriel de la Fuente, Soria, Spain",Castilla_Leon,27,2024-06-28 12:19:06,,48.0,6.0,27.3,1017.1,9.0,,1.6,22.7,6.0,2024-06-28,12,mediodia,Buena
+"Los Herran, Vitoria-Gasteiz, País Vasco, Spain",Pais_Vasco,17,2024-06-28 12:19:06,,79.5,4.6,,1018.0,7.0,17.0,,19.5,4.8,2024-06-28,12,mediodia,Buena
+"3 De Marzo, Vitoria-Gasteiz, País Vasco, Spain",Pais_Vasco,9,2024-06-28 12:19:06,0.1,79.5,5.1,,1018.0,4.0,9.0,0.6,19.5,4.8,2024-06-28,12,mediodia,Buena
+"Av. Gasteiz, Vitoria-Gasteiz, País Vasco, Spain",Pais_Vasco,9,2024-06-28 12:19:06,0.1,79.5,5.5,,1018.0,2.0,9.0,,19.5,4.8,2024-06-28,12,mediodia,Buena
+Madrid,Pais_Vasco,35,2024-06-28 12:19:06,0.1,49.6,7.4,34.6,1016.4,16.0,25.0,1.6,23.8,4.7,2024-06-28,12,mediodia,Buena
+"Casa De Campo, Madrid, Spain",Pais_Vasco,41,2024-06-28 12:19:06,,46.2,4.2,40.7,1016.4,19.0,17.0,,23.6,4.7,2024-06-28,12,mediodia,Buena
+"Escuelas Aguirre, Madrid, Spain",Pais_Vasco,35,2024-06-28 12:19:06,0.1,46.2,7.4,34.6,1016.4,24.0,25.0,1.6,23.6,4.7,2024-06-28,12,mediodia,Buena
+"Cuatro Caminos, Madrid, Spain",Pais_Vasco,34,2024-06-28 12:19:06,,46.2,6.0,,1016.4,21.0,34.0,,23.6,4.7,2024-06-28,12,mediodia,Buena
+"Plaza De Castilla, Madrid, Spain",Pais_Vasco,30,2024-06-28 12:19:06,,46.2,5.1,,1016.4,20.0,30.0,,23.6,4.7,2024-06-28,12,mediodia,Buena
+"Castellana, Madrid, Spain",Pais_Vasco,25,2024-06-28 12:19:06,,46.2,7.4,,1016.4,16.0,25.0,,23.6,4.7,2024-06-28,12,mediodia,Buena
+"Sanchinarro, Madrid, Spain",Pais_Vasco,25,2024-06-28 12:19:06,,46.2,9.6,,1014.0,20.0,25.0,,23.8,3.0,2024-06-28,12,mediodia,Buena
+"Mendez Alvaro, Madrid, Spain",Pais_Vasco,21,2024-06-28 12:19:06,,49.6,3.7,,1015.0,18.0,21.0,,23.8,4.5,2024-06-28,12,mediodia,Buena
+"Plaza Elíptica, Madrid, Spain",Pais_Vasco,18,2024-06-28 12:19:06,0.1,48.5,9.6,,1015.0,18.0,5.0,,24.5,2.5,2024-06-28,12,mediodia,Buena
+"Palencia III, Spain",Castilla_Leon,19,2024-06-28 12:19:06,,68.3,0.5,19.1,1019.8,11.0,17.0,0.6,21.1,11.0,2024-06-28,12,mediodia,Buena
+"Renault IV, Palencia, Spain",Castilla_Leon,13,2024-06-28 12:19:06,0.1,55.0,2.8,33.3,1013.5,3.0,13.0,1.1,15.9,8.2,2024-06-28,12,mediodia,Buena
+"Hontoria II - Venta de Baños, Palencia, Spain",Castilla_Leon,32,2024-06-28 12:19:06,0.1,55.0,0.5,31.7,1013.5,3.0,13.0,3.6,15.9,8.2,2024-06-28,12,mediodia,Buena
+"Guardo, Palencia, Spain",Castilla_Leon,23,2024-06-28 12:19:06,,66.0,3.7,23.2,1017.5,14.0,9.0,3.6,21.8,0.2,2024-06-28,12,mediodia,Buena
+"C.T.G. - Villalba, Palencia, Spain",Castilla_Leon,17,2024-06-28 12:19:06,,85.0,1.0,16.7,1022.5,2.0,9.0,1.1,,0.1,2024-06-28,12,mediodia,Buena
+"C.T.G. - Compuerto, Palencia, Spain",Castilla_Leon,16,2024-06-28 12:19:06,,85.5,0.5,16.3,1022.5,2.0,9.0,2.1,,0.1,2024-06-28,12,mediodia,Buena
+"Hontoria I - Poblado, Palencia, Spain",Castilla_Leon,34,2024-06-28 12:19:06,0.1,55.3,0.5,34.2,1013.5,1.0,13.0,1.1,15.9,8.0,2024-06-28,12,mediodia,Buena
+"Las Fuentes, Zaragoza, Spain",,54,2024-06-28 12:19:06,2.5,38.0,6.4,23.6,1015.9,23.0,54.0,1.3,26.6,1.0,2024-06-28,12,mediodia,Moderada
+"Actur, Zaragoza, Spain",,36,2024-06-28 12:19:06,,37.6,8.5,22.9,1015.9,30.0,36.0,,27.0,0.6,2024-06-28,12,mediodia,Buena
+"El Picarral, Zaragoza, Spain",,34,2024-06-28 12:19:06,1.3,30.0,5.6,34.4,1015.8,,32.0,,28.3,2.5,2024-06-28,12,mediodia,Buena
+"Jaime Ferrán, Zaragoza, Spain",,27,2024-06-28 12:19:06,1.3,37.0,9.2,26.9,1015.9,20.0,,1.6,27.2,0.7,2024-06-28,12,mediodia,Buena
+"Renovales (Luis Vives), Zaragoza, Spain",,32,2024-06-28 12:19:06,1.8,39.5,5.1,31.9,1012.0,20.0,,1.0,30.0,4.0,2024-06-28,12,mediodia,Buena
+"Roger de Flor, Zaragoza, Spain",,25,2024-06-28 12:19:06,1.0,37.6,4.9,24.5,1015.9,16.0,,1.0,27.0,0.6,2024-06-28,12,mediodia,Buena
+"Avda de Soria, Zaragoza, Spain",,22,2024-06-28 12:19:06,2.2,37.6,8.0,16.7,1015.9,22.0,,0.7,27.0,0.6,2024-06-28,12,mediodia,Buena
