@@ -1,0 +1,175 @@
+names,comunity,scores,dates,co,humidity,no2,o3,p,pm10,pm25,so2,temp,wind
+Madrid,Madrid,27,2024-06-29T15:26:16+09:00,0.1,87.2,2.8,26.9,1015.6,6.0,13.0,1.6,15.5,7.6
+"Sanchinarro, Madrid, Spain",Madrid,50,2024-06-29T16:44:02+09:00,,83.3,2.3,,1013.4,16.0,50.0,,15.7,4.6
+"Escuelas Aguirre, Madrid, Spain",Madrid,38,2024-06-29T16:44:03+09:00,0.1,80.3,3.7,26.9,1015.7,14.0,38.0,1.6,16.1,3.0
+"Cuatro Caminos, Madrid, Spain",Madrid,38,2024-06-29T16:44:01+09:00,,80.3,2.3,,1015.7,14.0,38.0,,16.1,3.0
+"Plaza De Castilla, Madrid, Spain",Madrid,34,2024-06-29T16:43:55+09:00,,80.3,3.7,,1015.7,12.0,34.0,,16.1,3.0
+"Casa De Campo, Madrid, Spain",Madrid,29,2024-06-29T16:43:56+09:00,,80.3,1.9,28.9,1015.7,5.0,9.0,,16.1,3.0
+"Mendez Alvaro, Madrid, Spain",Madrid,25,2024-06-29T16:44:03+09:00,,86.1,1.9,,1014.3,10.0,25.0,,15.9,9.6
+"Plaza Elíptica, Madrid, Spain",Madrid,21,2024-06-29T15:22:24+09:00,0.1,87.0,4.2,,1015.0,7.0,21.0,,15.0,7.2
+"Fernandez Ladreda, Madrid, Spain",Madrid,21,2024-06-29T16:44:00+09:00,,87.0,2.8,,1015.0,7.0,21.0,,16.0,6.4
+"Castellana, Madrid, Spain",Madrid,13,2024-06-29T16:44:03+09:00,,80.3,2.8,,1015.7,6.0,13.0,,16.1,3.0
+"Media  Red, Madrid, Spain",Madrid,-,2021-12-18T06:32:00+09:00,,88.0,,,1025.9,,,,7.7,1.7
+"el atazar, Madrid, Spain",Madrid,22,2024-06-29T16:44:00+09:00,,93.0,1.9,22.0,1015.0,5.0,17.0,0.6,14.3,0.3
+"algete, Madrid, Spain",Madrid,34,2024-06-29T16:44:00+09:00,,83.2,1.9,26.4,1013.4,,34.0,,16.6,6.2
+"alcorcón, Madrid, Spain",Madrid,27,2024-06-29T16:44:00+09:00,,87.0,1.9,26.9,1015.0,,21.0,,16.0,6.4
+"valdemoro, Madrid, Spain",Madrid,26,2024-06-29T16:44:03+09:00,,82.0,1.9,26.0,1014.5,,21.0,,17.0,7.4
+"torrejon de ardoz, Madrid, Spain",Madrid,24,2024-06-29T16:44:03+09:00,,77.0,3.2,24.4,1014.0,3.0,5.0,,17.0,6.9
+"villa del prado, Madrid, Spain",Madrid,24,2024-06-29T16:44:04+09:00,,87.0,1.4,24.4,1015.0,7.0,17.0,1.1,16.0,6.4
+"collado villalba, Madrid, Spain",Madrid,25,2024-06-29T16:44:02+09:00,,94.0,3.2,21.2,1013.1,,25.0,0.6,13.8,0.2
+"villarejo de salvanes, Madrid, Spain",Madrid,20,2024-06-29T16:44:04+09:00,,82.7,4.2,19.5,1016.6,,9.0,,16.8,7.2
+"San Nicolas, Canarias, Spain",Canarias,34,2024-06-29T16:58:08+09:00,0.1,76.4,2.3,23.2,1014.7,14.0,34.0,0.6,20.8,7.2
+"Nestor Alamo, Canarias, Spain",Canarias,34,2024-06-29T16:58:08+09:00,0.1,76.4,6.0,23.2,1014.7,16.0,34.0,0.6,20.8,7.2
+"Lezcano, Canarias, Spain",Canarias,30,2024-06-29T16:43:58+09:00,0.1,76.4,2.8,24.0,1014.7,16.0,30.0,2.1,20.8,7.2
+"Mercado Central, Canarias, Spain",Canarias,23,2024-06-29T16:58:08+09:00,0.1,76.4,4.2,22.8,1014.7,17.0,38.0,0.6,20.8,7.2
+"La Loma-Telde, Canarias, Spain",Canarias,23,2024-06-29T16:44:00+09:00,0.1,76.4,2.8,22.8,1014.7,23.0,13.0,2.6,20.8,7.2
+"Jinamar fase 3, Canarias, Spain",Canarias,22,2024-06-29T16:44:03+09:00,0.1,76.4,3.2,22.0,1014.7,12.0,5.0,2.1,20.8,7.2
+"Barcelona, Catalunya, Spain",Catalunya,35,2024-06-29T16:20:44+09:00,0.1,86.5,4.2,35.4,1011.7,11.0,21.0,0.6,20.8,0.5
+"Barcelona (Parc Vall d'Hebrón), Catalunya, Spain",Catalunya,32,2024-06-29T16:43:58+09:00,0.1,87.0,9.2,31.7,1011.8,16.0,21.0,0.6,20.9,0.3
+"Montcada i Reixac (Can Sant Joan), Catalunya, Spain",Catalunya,32,2024-06-29T16:34:59+09:00,0.1,80.7,6.0,32.1,1010.0,14.0,,0.6,23.8,7.0
+"Barcelona (Gràcia-St.Gervasi), Catalunya, Spain",Catalunya,31,2024-06-29T16:44:01+09:00,0.1,87.0,7.8,30.5,1011.8,15.0,25.0,0.6,20.9,0.3
+"Barcelona (Palau Reial), Catalunya, Spain",Catalunya,31,2024-06-29T16:44:00+09:00,0.1,87.0,6.0,30.9,1011.8,14.0,21.0,1.1,20.9,0.3
+"l'Hospitalet de Llobregat, Catalunya, Spain",Catalunya,31,2024-06-29T16:44:01+09:00,0.1,87.0,7.4,30.9,1011.7,19.0,21.0,1.1,20.9,0.3
+"Sant Adrià de Besòs, Catalunya, Spain",Catalunya,31,2024-06-29T16:44:02+09:00,,81.0,3.7,30.9,1010.7,17.0,,,23.3,4.3
+"Barcelona (Eixample), Catalunya, Spain",Catalunya,29,2024-06-29T16:44:00+09:00,0.1,85.0,11.0,28.9,1009.3,15.0,25.0,1.1,23.3,
+"Barcelona (Poblenou), Catalunya, Spain",Catalunya,18,2024-06-29T16:44:00+09:00,0.1,85.0,3.2,25.0,1009.3,18.0,,,23.3,
+"Mº Diaz Haro, Bilbao, País Vasco",Pais_Vasco,-,,0.1,31.0,,12.0,1008.0,34.0,,2.1,32.55,3.1
+"Baracaldo, Barakaldo, País Vasco, Spain",Pais_Vasco,38,2024-06-29T16:47:12+09:00,0.1,91.6,4.2,,1014.3,23.0,38.0,0.6,16.6,4.0
+"Mazarredo, Bilbao, País Vasco, Spain",Pais_Vasco,34,2024-06-29T16:47:12+09:00,0.1,100.0,2.8,,1014.0,14.0,34.0,0.6,17.0,4.3
+"Europa, Bilbao, País Vasco, Spain",Pais_Vasco,34,2024-06-29T16:47:12+09:00,,100.0,3.7,24.0,1014.0,16.0,34.0,1.6,17.0,4.3
+"Basauri, País Vasco, Spain",Pais_Vasco,34,2024-06-29T16:47:12+09:00,,64.6,3.7,,1013.9,17.0,34.0,1.1,16.1,9.0
+"Erandio, País Vasco, Spain",Pais_Vasco,30,2024-06-29T16:47:13+09:00,0.1,91.6,3.7,,1014.3,12.0,30.0,0.6,16.6,4.0
+"Arraiz, Bilbao, País Vasco, Spain",Pais_Vasco,26,2024-06-29T16:47:12+09:00,,100.0,2.8,26.4,1014.0,10.0,,2.6,17.0,4.3
+"Sangroniz, Sondika, País Vasco, Spain",Pais_Vasco,21,2024-06-29T16:47:13+09:00,,100.0,4.6,,1014.0,20.0,21.0,,17.0,4.3
+"Castrejana, Barakaldo, País Vasco, Spain",Pais_Vasco,20,2024-06-29T16:47:12+09:00,,100.0,2.8,19.5,1014.0,13.0,,,17.0,4.3
+"Alonsotegi, País Vasco, Spain",Pais_Vasco,13,2024-06-29T16:47:15+09:00,,100.0,2.8,,1014.0,13.0,70.0,,17.0,4.3
+"Mº Diaz Haro, Bilbao, País Vasco",Pais_Vasco,-,,0.1,31.0,,12.0,1008.0,34.0,,2.1,32.55,3.1
+"Torneo, Sevilla, Spain",Andalucia,66,2024-06-29T16:59:45+09:00,4.0,81.2,6.0,22.1,1016.1,18.0,66.0,2.1,20.7,4.8
+"Principes, Sevilla, Spain",Andalucia,66,2024-06-29T16:57:11+09:00,4.0,81.2,1.9,22.1,1016.1,14.0,66.0,3.6,20.7,4.8
+"Aljarafe, Mairena Del Aljarafe, Spain",Andalucia,66,2024-06-29T16:57:11+09:00,4.0,81.3,0.5,23.8,1016.2,14.0,66.0,1.1,20.2,4.1
+"Ranilla, Sevilla, Spain",Andalucia,28,2024-06-29T16:58:14+09:00,4.0,81.0,8.3,26.0,1015.4,11.0,28.0,2.1,20.8,4.5
+"Santa Clara, Sevilla, Spain",Andalucia,28,2024-06-29T16:59:49+09:00,4.0,81.0,2.3,26.0,1015.4,11.0,28.0,2.1,20.8,4.5
+"Bermejales, Sevilla, Spain",Andalucia,28,2024-06-29T16:57:11+09:00,4.0,81.0,1.9,25.8,1015.4,13.0,28.0,1.6,20.8,4.5
+"Carvajal - Sevillana, Bogota, Colombia",Andalucia,97,2024-06-29T16:03:12+09:00,8.2,100.0,11.6,0.2,1028.0,32.0,97.0,1.7,12.4,3.0
+"Lope de Vega, Vigo, Galicia, Spain",Galicia,38,2024-06-29T16:44:00+09:00,1.0,77.0,4.4,12.0,1012.5,6.0,38.0,0.8,18.6,2.6
+"Coia, Vigo, Galicia, Spain",Galicia,38,2024-06-29T16:44:03+09:00,1.0,77.0,2.4,16.2,1012.5,7.0,38.0,1.5,18.6,2.6
+"Estación 1, Este, Galicia, Spain",Galicia,25,2024-06-29T16:44:01+09:00,1.0,77.0,3.2,16.2,1012.5,7.0,25.0,0.6,18.6,2.6
+Worcester Summer St,Galicia,28,2024-06-29T15:41:38+09:00,1.2,82.8,3.8,28.1,1023.2,8.0,18.0,0.3,15.1,1.8
+"Tualatin I-5 Roadway, Oregon, USA",Galicia,17,2024-06-29T16:49:56+09:00,1.9,49.0,4.9,16.5,1014.6,,12.0,,19.7,1.6
+"Sensor Box 5, Oregon, USA",Galicia,17,2024-06-29T16:49:56+09:00,0.9,68.5,2.7,17.3,29.48,,9.0,0.7,18.7,3.5
+"Portland, Oregon, USA",Galicia,11,2024-06-29T16:20:39+09:00,0.1,68.3,2.7,0.1,1014.5,,11.0,0.6,18.7,
+"Portland Postal Bldg., Oregon, USA",Galicia,13,2023-12-28T16:11:12+09:00,1.6,92.0,6.1,12.6,,,,0.1,-72.8,
+"Avignon Mairie, PACA, France",Galicia,42,2024-06-29T16:13:14+09:00,,92.0,7.9,15.1,1012.5,15.0,42.0,,21.1,0.8
+"Le Pontet, PACA, France",Galicia,42,2024-06-29T16:07:07+09:00,,88.0,7.5,3.0,1012.0,18.0,42.0,,22.0,1.5
+"Avignon Rocade CDG, PACA, France",Galicia,40,2024-06-29T16:21:48+09:00,,88.0,13.2,,1012.0,17.0,40.0,,22.0,1.5
+"Avignon_semard, PACA, France",Galicia,33,2023-02-06T21:14:52+09:00,,57.0,5.4,19.4,1030.0,7.0,33.0,,11.0,3.0
+"Avenue Des Champs Elysees, Paris",Galicia,11,2024-06-29T16:01:57+09:00,,65.0,4.6,,1016.1,,11.0,,16.1,3.7
+"Paris Stade Lenglen, Paris",Galicia,14,2024-05-24T23:02:53+09:00,,59.0,3.8,,1019.5,14.0,,,18.3,3.0
+"Place Victor Basch, Paris",Galicia,27,2024-01-09T20:44:05+09:00,,74.2,16.4,,1025.1,27.0,,,-1.9,0.2
+"Boulevard Peripherique Auteuil, Paris",Galicia,-,2021-02-27T10:50:15+09:00,0.1,72.0,1.9,22.0,1037.4,20.0,,0.6,6.1,1.0
+"Torre Hércules, A Coruña, Galicia, Spain",Galicia,69,2024-06-29T16:44:01+09:00,1.0,86.0,0.5,26.1,1014.2,35.0,69.0,0.6,16.1,4.0
+"Parque da Cega, Galicia, Spain",Galicia,34,2024-06-29T15:24:51+09:00,1.0,91.0,1.0,20.1,1016.1,17.0,34.0,0.7,15.5,1.0
+"Riazor, A Coruña, Galicia, Spain",Galicia,25,2024-06-29T16:44:01+09:00,1.0,86.0,2.3,20.1,1014.2,23.0,25.0,0.6,16.1,4.0
+"A Grela (C), Galicia, Spain",Galicia,22,2024-06-29T15:24:49+09:00,1.0,89.0,2.9,20.1,1014.0,22.0,10.0,2.0,15.5,4.0
+"Molí del Sol, València, Valencia, Spain",Com_Valenciana,59,2024-06-29T16:44:01+09:00,,59.0,4.2,37.0,1014.9,17.0,59.0,1.6,23.3,7.0
+"Quart de Poblet, Valencia, Spain",Com_Valenciana,37,2024-06-29T16:44:00+09:00,,58.5,2.8,36.6,1012.0,7.0,25.0,3.1,23.5,6.1
+"Politècnic, València, Valencia, Spain",Com_Valenciana,36,2024-06-29T16:43:54+09:00,,59.0,2.8,35.8,1014.9,7.0,21.0,2.1,23.3,7.0
+"Pista de Silla, València, Valencia, Spain",Com_Valenciana,35,2024-06-29T16:44:03+09:00,,60.0,1.9,35.4,,14.0,21.0,1.6,24.5,2.6
+"Avd. Francia, València, Valencia, Spain",Com_Valenciana,21,2024-06-29T16:43:54+09:00,,62.4,1.9,57.8,1013.9,6.0,21.0,1.6,22.9,7.6
+"Santa Clarita-Placerita, Los Angeles",Com_Valenciana,52,2024-06-29T16:20:07+09:00,1.2,82.0,6.5,26.4,1012.3,,52.0,,17.2,1.6
+"Valence Urbain Centre, France",Com_Valenciana,30,2024-06-29T14:26:53+09:00,,88.0,10.0,40.4,1011.2,23.0,30.0,,19.1,0.2
+"Valence Sud, France",Com_Valenciana,-,2024-06-29T14:26:53+09:00,,88.0,12.1,46.5,1011.2,,,,19.1,0.2
+"A7 Valence Est, France",Com_Valenciana,-,2024-06-29T14:26:53+09:00,,88.0,9.0,,1011.2,19.0,,,19.1,0.2
+"A7 Valence, France",Com_Valenciana,-,2021-12-18T06:32:07+09:00,,73.5,,,1024.8,,,,4.9,1.0
+"Elda, Valencia, Spain",Com_Valenciana,31,2024-06-29T16:43:57+09:00,,50.4,1.9,30.5,1001.0,2.0,9.0,2.1,24.4,3.2
+"Viver, Valencia, Spain",Com_Valenciana,22,2024-06-29T16:44:02+09:00,,56.0,4.6,22.0,1011.9,3.0,9.0,1.6,23.8,2.2
+"Buñol, Valencia, Spain",Com_Valenciana,35,2024-06-29T16:43:55+09:00,,62.0,1.9,35.0,1015.9,4.0,13.0,1.6,22.5,11.2
+"Burriana, Valencia, Spain",Com_Valenciana,46,2024-06-29T16:44:09+09:00,,56.0,9.6,14.7,1011.9,13.0,46.0,1.6,23.8,2.2
+"L'Alcora, Valencia, Spain",Com_Valenciana,14,2024-06-29T16:44:02+09:00,,56.0,6.0,2.9,1011.9,14.0,9.0,1.6,23.8,2.2
+"Benigánim, Valencia, Spain",Com_Valenciana,26,2024-06-29T16:43:57+09:00,,58.1,4.6,25.6,1013.0,,,,23.0,4.1
+"Benicassim, Valencia, Spain",Com_Valenciana,13,2024-06-29T16:44:03+09:00,,56.0,9.2,34.6,1011.9,3.0,13.0,1.6,23.8,2.2
+"CEA, Sagunt, Valencia, Spain",Com_Valenciana,42,2024-06-29T16:44:00+09:00,,59.3,1.4,41.9,1009.3,3.0,9.0,3.6,23.1,11.0
+"Algar de Palància, Valencia, Spain",Com_Valenciana,17,2024-06-29T16:44:10+09:00,,56.0,4.2,17.1,1011.9,4.0,13.0,1.6,23.8,2.2
+"Rabassa, Alacant, Valencia, Spain",Com_Valenciana,24,2024-06-29T16:44:01+09:00,,42.5,2.3,24.0,1013.5,4.0,5.0,1.6,25.0,3.8
+"Vinaròs Planta, Valencia, Spain",Com_Valenciana,46,2020-09-16T04:51:34+09:00,,89.6,1.9,23.0,1028.4,11.0,46.0,,3.8,0.6
+"Tarragona (Bonavista), Catalunya, Spain",Catalunya,30,2024-06-29T16:44:03+09:00,,95.2,3.2,13.9,1009.7,17.0,30.0,3.6,20.5,4.3
+"Perafort, Catalunya, Spain",Catalunya,21,2024-06-29T16:44:03+09:00,,43.1,1.9,12.0,1008.9,10.0,21.0,1.1,28.7,
+"Burgos IV, Spain",Castilla_Leon,17,2024-06-29T16:44:02+09:00,0.1,93.0,1.0,17.1,1014.5,3.0,5.0,3.6,14.0,3.3
+"Burgos I, Spain",Castilla_Leon,45,2024-02-20T20:05:13+09:00,0.1,48.5,31.6,16.3,1033.5,45.0,9.0,1.6,9.5,0.7
+"Medina de Pomar, Burgos, Spain",Castilla_Leon,23,2024-06-29T16:44:11+09:00,,91.6,0.5,22.8,1014.3,6.0,,2.1,16.6,4.0
+"Aranda de Duero II, Burgos, Spain",Castilla_Leon,29,2024-06-29T16:44:10+09:00,,93.0,1.9,28.5,1014.5,7.0,,0.6,14.0,3.3
+"Miranda de Ebro II, Burgos, Spain",Castilla_Leon,27,2024-06-29T16:44:03+09:00,,93.0,1.9,26.9,1014.0,10.0,,0.6,15.0,1.5
+"Miranda de Ebro I, Burgos, Spain",Castilla_Leon,7,2020-09-15T05:56:57+09:00,,78.5,6.0,1.7,1006.0,7.0,,1.6,12.0,1.8
+"Limburg-Schiede, Germany",Castilla_Leon,35,2024-06-29T16:59:51+09:00,0.1,59.0,19.2,16.9,1017.0,18.0,35.0,0.5,18.0,3.6
+"Limburg, Germany",Castilla_Leon,28,2024-06-29T17:00:06+09:00,0.1,60.2,19.2,16.9,1018.9,13.0,28.0,0.5,21.9,0.5
+"El Atabal, Malaga, Spain",Andalucia,28,2024-06-29T17:01:51+09:00,,64.5,7.7,27.7,1018.4,10.0,17.0,4.1,21.6,3.1
+"Carranque, Malaga, Spain",Andalucia,26,2024-06-29T16:59:45+09:00,,64.5,7.7,23.5,1018.4,15.0,26.0,2.6,21.6,3.1
+"Campanillas, Malaga, Spain",Andalucia,25,2024-06-29T16:59:49+09:00,,60.0,5.1,25.2,1017.0,15.0,17.0,2.6,21.5,0.5
+"Palacio De Congresos, Granada, Spain",Andalucia,37,2024-06-29T17:01:48+09:00,,67.2,3.2,31.1,1011.6,16.0,37.0,2.1,18.8,1.0
+"Granada-norte, Granada, Spain",Andalucia,25,2024-06-29T16:59:50+09:00,,67.2,6.4,25.2,1011.6,14.0,14.0,2.6,18.8,1.0
+"Ciudad Deportiva, Armilla, Spain",Andalucia,25,2024-06-29T16:58:08+09:00,,67.2,3.2,25.2,1011.6,16.0,38.0,1.6,18.8,1.0
+"Erie, Ohio, USA",Castilla_Mancha,23,2024-06-29T16:40:19+09:00,,88.0,,23.3,1010.4,,,,23.0,1.5
+"Segovia II, Spain",Castilla_Leon,31,2024-06-29T16:43:56+09:00,,94.0,2.8,30.9,1013.1,5.0,,0.6,13.8,0.2
+"Soria, Spain",Castilla_Leon,19,2024-06-29T16:44:10+09:00,,74.5,1.9,18.7,1012.0,2.0,,0.6,18.5,3.6
+"Avda de Soria, Zaragoza, Spain",Castilla_Leon,31,2024-06-29T16:22:13+09:00,1.8,59.0,3.7,30.8,1012.4,10.0,,0.7,20.3,1.3
+"Muriel de la Fuente, Soria, Spain",Castilla_Leon,30,2024-06-29T08:41:01+09:00,,90.3,8.3,29.7,1016.1,43.0,,1.6,13.3,8.0
+"Casoria Scuola Palizzi (CAM), Casoria, Campania, Italy",Castilla_Leon,11,2024-06-29T16:52:49+09:00,,48.0,14.0,11.3,1017.0,,,,30.0,1.0
+"I.t.i.s. Argine, Napoli, Campania, Italy",Castilla_Leon,52,2024-06-29T16:54:48+09:00,,48.0,17.2,,1017.0,25.0,52.0,2.3,30.0,1.0
+"Museo Nazionale, Napoli, Campania, Italy",Castilla_Leon,37,2024-06-29T16:54:48+09:00,,72.3,18.2,,1018.8,23.0,37.0,,27.8,1.0
+"Osservatorio Astronomico, Napoli, Campania, Italy",Castilla_Leon,33,2024-06-29T16:52:45+09:00,,72.3,4.8,33.0,1018.8,,,,27.8,1.0
+"Ente Ferrovie, Napoli, Campania, Italy",Castilla_Leon,1,2024-06-29T16:54:44+09:00,,72.3,13.3,,1018.8,13.0,,0.8,27.8,1.0
+"Acerra scuola Caporale, Acerra, Campania, Italy",Castilla_Leon,-,2024-06-29T16:52:49+09:00,,48.0,13.8,,1017.0,,,,30.0,1.0
+"Ospedale Santobono, Napoli, Campania, Italy",Castilla_Leon,-,2024-06-29T16:52:46+09:00,,72.3,22.1,,1018.8,,,,27.8,1.0
+"Outreau, Nord-Pas-de-Calais, France",Castilla_Leon,25,2024-06-29T09:20:16+09:00,,87.0,2.8,25.2,1018.0,22.0,45.0,,11.0,1.0
+"Boulogne Diderot, Nord-Pas-de-Calais, France",Castilla_Leon,21,2024-06-29T09:22:12+09:00,,87.0,,,1018.0,10.0,21.0,,11.0,1.0
+"Boulogne-sur-mer, Nord-Pas-de-Calais, France",Castilla_Leon,45,2022-06-21T22:19:48+09:00,,56.0,,,1013.0,23.0,45.0,,20.0,3.6
+New York,Castilla_Leon,17,2024-06-29T17:00:11+09:00,,80.0,,,1023.6,,17.0,,19.9,2.0
+"New York, USA",Castilla_Leon,22,2024-06-29T17:00:12+09:00,1.4,80.0,11.7,21.6,1023.6,,17.0,,20.0,2.9
+"Ft Lee Near Road, NewJersey, USA",Castilla_Leon,17,2024-06-29T16:40:17+09:00,2.3,79.0,6.5,1.0,1023.6,,17.0,1.5,16.9,0.5
+"Public School 274, New York, USA",Castilla_Leon,17,2024-06-29T16:55:54+09:00,,80.0,,,1023.6,,17.0,,19.2,1.5
+"Intermediate School 74, New York, USA",Castilla_Leon,17,2024-06-29T16:55:54+09:00,1.4,68.0,11.7,17.6,1022.2,,17.0,,19.0,2.9
+"Intermediate School 143, New York, USA",Castilla_Leon,16,2024-06-29T16:55:54+09:00,1.4,68.0,7.4,21.6,1023.3,,16.0,,20.0,1.5
+"The City College of New York, USA",Castilla_Leon,15,2024-06-29T16:55:54+09:00,1.4,68.0,7.4,21.6,1023.3,,15.0,,20.0,1.5
+"I S 52 Junior High School, New York, USA",Castilla_Leon,15,2024-06-29T16:55:54+09:00,1.4,68.0,11.7,17.6,1022.2,,15.0,,19.0,2.9
+"Vitória - Centro, Espírito Santo, Brazil",Pais_Vasco,62,2024-06-29T15:24:52+09:00,0.86,88.0,2.43,,1013.0,61.58,21.24,14.46,22.0,3.6
+"Vila Capixaba, Espírito Santo, Brazil",Pais_Vasco,41,2024-06-29T16:22:12+09:00,1.88,88.0,1.94,12.43,1013.0,40.63,4.53,13.91,22.0,1.5
+"Jardim Camburi, Espírito Santo, Brazil",Pais_Vasco,25,2024-06-28T15:22:27+09:00,,94.0,,,1013.0,25.32,,,21.0,1.0
+"Enseada do Suá, Espírito Santo, Brazil",Pais_Vasco,25,2024-06-26T17:30:19+09:00,,94.0,1.81,,1017.0,24.86,12.79,12.68,21.0,2.0
+"Vila Velha - IBES, Espírito Santo, Brazil",Pais_Vasco,-,2024-06-29T16:22:11+09:00,1.15,88.0,1.31,,1013.0,,,25.25,22.0,1.5
+"Vila Velha  - Centro, Espírito Santo, Brazil",Pais_Vasco,9,2021-10-31T09:07:58+09:00,,94.0,,,1018.0,9.42,,,22.0,1.5
+"Los Herran, Vitoria-Gasteiz, País Vasco, Spain",Pais_Vasco,30,2024-06-29T16:47:10+09:00,,93.0,2.8,,1014.0,11.0,30.0,,15.0,1.5
+"3 De Marzo, Vitoria-Gasteiz, País Vasco, Spain",Pais_Vasco,17,2024-06-29T16:47:10+09:00,0.1,93.0,3.2,,1014.0,8.0,17.0,0.6,15.0,1.5
+"Av. Gasteiz, Vitoria-Gasteiz, País Vasco, Spain",Pais_Vasco,17,2024-06-29T16:47:10+09:00,0.1,93.0,3.7,,1014.0,11.0,17.0,,15.0,1.5
+"Victoria Topaz, British Comlumbia, Canada",Pais_Vasco,19,2024-06-29T16:27:45+09:00,0.1,76.0,9.1,3.5,1016.0,,19.0,0.4,14.7,1.0
+Esquimalt Graving Dock,Pais_Vasco,-,,0.1,,4.4,13.2,,,25.0,1.0,,
+Western LLS Lake Victoria,Pais_Vasco,4,2024-06-21T02:38:13+09:00,,98.0,,,1015.3,3.0,4.0,,6.2,2.0
+Madrid,Pais_Vasco,27,2024-06-29T15:26:16+09:00,0.1,87.2,2.8,26.9,1015.6,6.0,13.0,1.6,15.5,7.6
+"Sanchinarro, Madrid, Spain",Pais_Vasco,46,2024-06-29T17:03:51+09:00,,84.0,1.9,,1014.0,15.0,46.0,,15.5,7.0
+"Cuatro Caminos, Madrid, Spain",Pais_Vasco,34,2024-06-29T17:03:51+09:00,,82.0,2.8,,1016.2,12.0,34.0,,16.1,3.0
+"Escuelas Aguirre, Madrid, Spain",Pais_Vasco,50,2024-06-29T17:03:50+09:00,0.1,82.0,4.6,28.1,1016.2,17.0,50.0,1.6,16.1,3.0
+"Plaza De Castilla, Madrid, Spain",Pais_Vasco,38,2024-06-29T17:03:51+09:00,,82.0,3.7,,1016.2,14.0,38.0,,16.1,3.0
+"Casa De Campo, Madrid, Spain",Pais_Vasco,32,2024-06-29T17:03:51+09:00,,82.0,1.9,31.7,1016.2,7.0,21.0,,16.1,3.0
+"Mendez Alvaro, Madrid, Spain",Pais_Vasco,13,2024-06-29T17:03:51+09:00,,86.0,2.3,,1014.8,7.0,13.0,,16.1,9.0
+"Plaza Elíptica, Madrid, Spain",Pais_Vasco,17,2024-06-29T17:03:51+09:00,0.1,87.0,3.7,,1015.0,7.0,17.0,,16.0,6.4
+"Fernandez Ladreda, Madrid, Spain",Pais_Vasco,21,2024-06-29T16:44:00+09:00,,87.0,2.8,,1015.0,7.0,21.0,,16.0,6.4
+"Palencia III, Spain",Castilla_Leon,15,2024-06-29T16:44:10+09:00,,87.8,0.5,15.1,1017.9,5.0,5.0,1.1,17.0,1.8
+"Renault IV, Palencia, Spain",Castilla_Leon,13,2024-05-17T21:19:12+09:00,0.1,55.0,2.8,33.3,1013.5,3.0,13.0,1.1,15.9,8.2
+"Hontoria II - Venta de Baños, Palencia, Spain",Castilla_Leon,32,2024-05-17T21:15:52+09:00,0.1,55.0,0.5,31.7,1013.5,3.0,13.0,3.6,15.9,8.2
+"Guardo, Palencia, Spain",Castilla_Leon,21,2024-06-29T16:43:58+09:00,,71.5,1.9,20.8,1014.4,10.0,9.0,1.1,17.2,2.4
+"C.T.G. - Villalba, Palencia, Spain",Castilla_Leon,17,2021-04-13T15:12:04+09:00,,85.0,1.0,16.7,1022.5,2.0,9.0,1.1,,0.1
+"C.T.G. - Compuerto, Palencia, Spain",Castilla_Leon,16,2021-04-13T15:18:07+09:00,,85.5,0.5,16.3,1022.5,2.0,9.0,2.1,,0.1
+"Hontoria I - Poblado, Palencia, Spain",Castilla_Leon,34,2024-05-17T21:13:58+09:00,0.1,55.3,0.5,34.2,1013.5,1.0,13.0,1.1,15.9,8.0
+"Avda de Soria, Zaragoza, Spain",None,31,2024-06-29T16:22:13+09:00,1.8,59.0,3.7,30.8,1012.4,10.0,,0.7,20.3,1.3
+"Actur, Zaragoza, Spain",None,30,2024-06-29T16:19:08+09:00,,59.5,5.1,29.7,1012.4,8.0,21.0,,20.0,1.5
+"Roger de Flor, Zaragoza, Spain",None,28,2024-06-29T16:19:49+09:00,1.0,59.5,4.0,28.2,1012.4,10.0,,0.8,20.0,1.5
+"El Picarral, Zaragoza, Spain",None,27,2024-06-29T16:22:11+09:00,2.5,59.0,3.4,26.5,1012.4,,26.0,,20.3,1.3
+"Jaime Ferrán, Zaragoza, Spain",None,26,2024-06-29T16:22:11+09:00,1.3,59.0,6.4,26.4,1012.4,10.0,,2.0,20.3,1.3
+"Las Fuentes, Zaragoza, Spain",None,24,2024-06-29T16:25:13+09:00,1.8,59.0,3.3,19.6,1012.4,11.0,24.0,1.6,20.3,1.3
+"Renovales (Luis Vives), Zaragoza, Spain",None,21,2024-06-29T16:16:47+09:00,1.0,72.5,2.3,21.4,1008.9,2.0,,1.0,20.5,1.5
+"Laboratorio, Tijuana, Baja California, Mexico",None,-,2021-12-18T06:32:05+09:00,,65.0,,,1010.1,,,,26.0,8.2
+"FES Acatlán, México, Mexico",None,42,2023-09-28T01:41:57+09:00,10.0,48.5,19.5,15.2,1030.1,42.0,,17.2,19.0,1.8
+"Tlalnepantla, México, Mexico",None,70,2023-09-10T05:40:18+09:00,4.5,28.0,9.3,49.6,1026.5,40.0,70.0,2.9,24.0,1.5
+"Tlaneplantla, México, Mexico",None,-,2021-12-18T06:32:04+09:00,,54.0,,,1007.0,,,,20.0,11.0
+"Tultitlan, México, Mexico",None,-,2023-06-30T23:43:12+09:00,,59.0,,,1027.7,,,,19.0,1.5
+"Camarones, México, Mexico",None,-,2023-08-30T22:44:39+09:00,,62.0,,,1027.4,,,,12.0,2.5
+"Velódromo, Puebla, Mexico",None,39,2024-06-29T07:47:54+09:00,1.9,52.0,8.5,39.2,1022.3,,,1.0,21.0,1.5
