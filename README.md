@@ -83,9 +83,23 @@ Notebooks
 * [2. 2_best_model](./5.%20Modelo_ML/2.%202_best_model.ipynb)
 * [3. final_models_train](./5.%20Modelo_ML/3.%20final_models_train.ipynb)
 
+![alt 1st](<./images/Screenshot from 2024-07-05 20-38-27.png>)
+
+
+![alt 2nd](<./images/Screenshot from 2024-07-05 20-38-44.png>)
+
+
+![image 3rd](<./images/Screenshot from 2024-07-05 20-39-03.png>)
+
+
+![image 4th](<./images/Screenshot from 2024-07-05 20-39-12.png>)
+ 
+
 #### 5.2 MODELO_VALIDACION
 
     Ejecutamos EL MISMO preprocesamiento de los datos con los que entrenamos el modelo, a los nuevos datos.
 Notebooks
 
 * [prepro_new_data](./5.2%20Modelo_Validacion/prepro_new_data.ipynb)
+
+![img 5th](<./images/Screenshot from 2024-07-05 20-40-03.png>)
