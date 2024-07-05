@@ -6,6 +6,8 @@
 
 Importamos los datos de la [web AQICN](https://aqicn.org/) utilizando su API de exportación.
 
+![alt AQICN](./images/Screenshot%20from%202024-07-05%2019-04-08.png)
+
 ### ESTUDIO
 
 Descargamos los datos 4 veces cada día sobre el estado de calidad del aire en diferentes estaciones meteorológicas. Se recogen:
@@ -18,6 +20,18 @@ Descargamos los datos 4 veces cada día sobre el estado de calidad del aire en d
 * Proporción de Partículas Respirables (PM10)
 * Índice de Calidad del Aire (AQI, que se calcula a partir de los datos anteriores)
 * Clase de Calidad del Aire (en función del valor AQI, se categoriza en una palabra/color fácil de leer)
+
+Preparamos estos datos, y hacemos las pruebas con los diferentes algoritmos, obteniendo los dos mejores, guardando los resultados para re-utilizarlos en producción.
+
+Finalmente, le presentamos al modelo/validación los datos leídos en la propia web de AQI actuales, y nos informará de la predicción que hace para el siguiente rango horario, tanto con un SCORE (AQI) como una clase (indicador de calidad).
+
+### ALCANCE
+
+Creemos que se trata de un estudio muy interesante, e incluso aplicable con pocos cambios y/o mejoras a una producción real.
+
+#### ÁREAS DE MEJORA
+
+Sería interesante realizar un análisis similar, pero añadiendo uno ( dos) NEXT_SCORE y NEXT_CLASS días más a cada lectura. Creemos que estos datos le darían más capacidad de predicción a los diferentes modelos. O incluso, con más código (y tiempo), se podría poner un formulario de selección de estación meteorológica, que leería el estado actual de la misma, y si en el CSV final añadiéramos los últimos datos como (PREVIUS_SCORE y PREVIUS_CLASS o incluso 2nPREVIUS_SCORE...), se obtendrían predicciones rápida y mucho más acertadas, pero el proyecto se trataba de realizar la lógica de predicción, no de una aplicación para el usuario (o frontend) final.
 
 ## PROCESOS REALIZADOS
 
